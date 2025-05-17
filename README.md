@@ -43,7 +43,7 @@
 
 ## Технологии
 
-*   Python 3.x
+*   Python 3.8+
 *   Библиотеки:
     *   Pandas, NumPy - обработка данных
     *   Matplotlib, Seaborn - визуализация
